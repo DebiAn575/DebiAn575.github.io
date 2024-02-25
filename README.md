@@ -2,17 +2,18 @@
 <h1 align="center">Hi 👋, I'm Debayan</h1>
 <h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing management, financial analysis, and operations excellence.</h3>
 
-- 🌱 I’m currently honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**
+<ul>
+<li> 🌱 I’m currently honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**</li>
 
-- :open_file_folder: All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
+<li> :open_file_folder: All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.</li>
 
-- 👨‍💻 I am a Univerity of Utah graduate with a master's degree in Business Analytics
+<li> 👨‍💻 I am a Univerity of Utah graduate with a master's degree in Business Analytics</li>
 
-- :m: How to reach me **debayan575@gmail.com**
+<li> :m: How to reach me **debayan575@gmail.com**</li>
 
-- :round_pushpin: Currently I am in the United States
+<li> :round_pushpin: Currently I am in the United States</li>
   
-
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
