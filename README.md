@@ -24,7 +24,7 @@
 
 
 <h3 align="left">PROJECTS</h3>
-
+<p align="left">
 [1.Credit Default risk analysis and prediction](https://github.com/DebiAn575/Business_Applications/tree/main/Home_Credit_Default_Risk_prediction).
 Home Credit is an international consumer finance provider focused on responsible lending primarily to people with little or no credit history. As the company provides financial support for home purchasers the company makes sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount. 
 The objective is that, Home Credit wants to use various statistical and predictive analysis methods on the applicant data, collected previously and current data to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default. The project also delves into determing which features/predictors are strongest in determining the target variable. 
@@ -47,4 +47,5 @@ This challenge by no means analyzes the sport, the athlete performances and the 
 [4. Evaluating Market Performance and Predicting Strongest Variables affecting Sales](https://github.com/DebiAn575/Business_Applications/tree/main/XAI_Understanding_which_predictors_affect_product_sale).
 In this project we analyze the sales and marketing strategies of two soft drinks and utilize Machine Learning models to understand what makes the sales of one product better than the other and also answer the questions what factors can the marketing and the sales manager focus on to increase the sales of the low performing product. 
 - Tools Used: R Programming
-- Models: Logistic Regression, XGBoost 
+- Models: Logistic Regression, XGBoost
+</p>
