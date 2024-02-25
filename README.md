@@ -1,4 +1,3 @@
-![logo](https://github.com/DebiAn575/DebiAn575/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png.png)
 <h1 align="center">Hi 👋, I'm Debayan </h1>
 <h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing and financial analysis, and operations excellence.</h3>
 
