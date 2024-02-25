@@ -47,10 +47,7 @@
 
     <!-- Project 3 Description and Link -->
     <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/Game%20Day%20Analytics%202023">Game Day Analytics Challenge 2023 - Super Bowl 57</a></h3>
-    <p>This Analytics challenge explores the analysis of twitter data (now X) mainly tweets and its associated data that was collected during Super Bowl 57 in February 2023. 
-The analysis explores the ads most twitted and most revenue the parent comapanies made through the ads during the Super Bowl 57. 
-The idea is to perform business analysis associated with the Super Bowl 57 and obtain business decision insigths impacting companies' overall approach to digital campaigns. 
-This challenge by no means analyzes the sport, the athlete performances and the the Super Bowl organizations.</p>
+    <p>This Analytics challenge explores the analysis of twitter data (now X) mainly tweets and its associated data that was collected during Super Bowl 57 in February 2023.The analysis explores the ads most twitted and most revenue the parent comapanies made through the ads during the Super Bowl 57. The idea is to perform business analysis associated with the Super Bowl 57 and obtain business decision insigths impacting companies' overall approach to digital campaigns. This challenge by no means analyzes the sport, the athlete performances and the the Super Bowl organizations.</p>
         
     <ul>
         <li>Tools Used: Twitter API, Python, Alteryx, Tableau</li>
