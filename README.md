@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debayan</h1>
 <h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing and financial analysis, and operations excellence.</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Text Analytics & Business Operations**
+- 🌱 I’m currently learning and honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**
 
 - 👨‍💻 All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main)
 
