@@ -17,11 +17,19 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debian575&show_icons=true&locale=en&layout=compact" alt="debian575" /></p>
 
-## This Repository hosts the portfolio projects undertaken during the MSBA program course 2022-2023
+## Projects
 
 [1.Credit Default risk analysis and prediction](https://github.com/DebiAn575/Business_Applications/tree/main/Home_Credit_Default_Risk_prediction).
+Home Credit is an international consumer finance provider focused on responsible lending primarily to people with little or no credit history. As the company provides financial support for home purchasers the company makes sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount. 
+The objective is that, Home Credit wants to use various statistical and predictive analysis methods on the applicant data, collected previously and current data to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default. The project also delves into determing which features/predictors are strongest in determining the target variable. 
+In this project we explore various classification algorithms and a supervised learning approach to develop models to predict if a new home loan requester will default or not and thereby Home Credit can make a decision whether they should lend money to the requester. 
+Tools Used: Python, Jupyter Notebook
+Models: Random Forest, XGBoost, Naive Bayes, Ensemble Modeling. 
 
 [2.Maverik Sales Forecasting Time Series Analysis](https://github.com/DebiAn575/Business_Applications/tree/main/Maverik_Sales_Forecasting).
+In this project we explore Time Series data analysis and forecasting. The project's objective is the analyze quantitative and qualitative data of Maverik stores and past three years sales records of 4 target variable and predict a year long sales for the next fiscal year. Based on the forecast Maverik can perform financial budget planning and analysis and take strategic business decisions for new stores that will open next year. 
+Tools Used: R Programming, Posit cloud, Excel
+Models: ARIMA+ETS, VAR, Prophet, SVM Regressor. 
 
 [3. Game Day Analytics Challenge 2023 - Super Bowl 57](https://github.com/DebiAn575/Business_Applications/tree/main/Game%20Day%20Analytics%202023).
 This Analytics challenge explores the analysis of twitter data (now X) mainly tweets and its associated data that was collected during Super Bowl 57 in February 2023. 
@@ -31,5 +39,8 @@ This challenge by no means analyzes the sport, the athlete performances and the 
 Tools Used: Twitter API, Python, Alteryx, Tableau
 
 [4. Evaluating Market Performance and Predicting Strongest Variables affecting Sales](https://github.com/DebiAn575/Business_Applications/tree/main/XAI_Understanding_which_predictors_affect_product_sale).
+In this project we analyze the sales and marketing strategies of two soft drinks and utilize Machine Learning models to understand what makes the sales of one product better than the other and also answer the questions what factors can the marketing and the sales manager focus on to increase the sales of the low performing product. 
+Tools Used: R Programming
+Models: Logistic Regression, XGBoost
 
 
