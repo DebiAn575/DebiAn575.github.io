@@ -24,6 +24,20 @@
 
 <h3 align="left">PROJECTS</h3>
 
+# Projects
+
+## [Credit Default Risk Analysis and Prediction](https://github.com/DebiAn575/Business_Applications/tree/main/Home_Credit_Default_Risk_prediction)
+
+Home Credit is an international consumer finance provider focused on responsible lending primarily to people with little or no credit history. As the company provides financial support for home purchasers the company makes sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount.
+
+The objective is that, Home Credit wants to use various statistical and predictive analysis methods on the applicant data, collected previously and current data to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default. The project also delves into determining which features/predictors are strongest in determining the target variable.
+
+In this project we explore various classification algorithms and a supervised learning approach to develop models to predict if a new home loan requester will default or not and thereby Home Credit can make a decision whether they should lend money to the requester.
+
+- Tools Used: Python, Jupyter Notebook
+- Models: Random Forest, XGBoost, Naive Bayes, Ensemble Modeling.
+
+
 [1.Credit Default risk analysis and prediction](https://github.com/DebiAn575/Business_Applications/tree/main/Home_Credit_Default_Risk_prediction).
 Home Credit is an international consumer finance provider focused on responsible lending primarily to people with little or no credit history. As the company provides financial support for home purchasers the company makes sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount. 
 The objective is that, Home Credit wants to use various statistical and predictive analysis methods on the applicant data, collected previously and current data to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default. The project also delves into determing which features/predictors are strongest in determining the target variable. 
