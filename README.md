@@ -38,7 +38,6 @@
 
     <!-- Project 2 Description and Link -->
     <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/Maverik_Sales_Forecasting">Maverik Sales Forecasting Time Series Analysis</a></h3>
-    <img src="https://github.com/DebiAn575/DebiAn575.github.io/blob/main/time%20series.svg" alt="Project Visualization" style="width:100%;max-width:600px;">
     <p>In this project we explore Time Series data analysis and forecasting. The project's objective is the analyze quantitative and qualitative data of Maverik stores and past three years sales records of 4 target variable and predict a year long sales for the next fiscal year. Based on the forecast Maverik can perform financial budget planning and analysis and take strategic business decisions for new stores that will open next year.</p>
         
     <ul>
