@@ -38,18 +38,18 @@
 
     <!-- Project 2 Description and Link -->
     <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/Maverik_Sales_Forecasting">Maverik Sales Forecasting Time Series Analysis</a></h3>
+    <?xml version="1.0" ?>
+<svg width="200px" height="200px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+    <g id="layer1">
+        <path d="M 0 2 L 0 18 L 20 18 L 20 17 L 1 17 L 1 2 L 0 2 z M 14.464844 5 L 13.404297 6.0605469 L 16.232422 6.0605469 L 10.400391 11.892578 L 6.7226562 10.052734 C 6.5303951 9.9570071 6.2984793 9.9947426 6.1464844 10.146484 L 2.1464844 14.146484 C 1.6556843 14.617739 2.3822604 15.344316 2.8535156 14.853516 L 6.5996094 11.107422 L 10.277344 12.947266 C 10.469605 13.042996 10.701521 13.005256 10.853516 12.853516 L 16.939453 6.7675781 L 16.939453 9.5957031 L 18 8.5351562 L 18 5 L 14.464844 5 z" style="fill:#222222;fill-opacity:1;stroke:none;stroke-width:0px;"/>
+    </g>
+</svg>
     <p>In this project we explore Time Series data analysis and forecasting. The project's objective is the analyze quantitative and qualitative data of Maverik stores and past three years sales records of 4 target variable and predict a year long sales for the next fiscal year. Based on the forecast Maverik can perform financial budget planning and analysis and take strategic business decisions for new stores that will open next year.</p>
         
     <ul>
         <li>Tools Used: R Programming, Posit cloud, Excel</li>
         <li>Models: ARIMA+ETS, VAR, Prophet, SVM Regressor</li>
     </ul>
-    <?xml version="1.0" ?>
-<svg width="80px" height="80px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-    <g id="layer1">
-        <path d="M 0 2 L 0 18 L 20 18 L 20 17 L 1 17 L 1 2 L 0 2 z M 14.464844 5 L 13.404297 6.0605469 L 16.232422 6.0605469 L 10.400391 11.892578 L 6.7226562 10.052734 C 6.5303951 9.9570071 6.2984793 9.9947426 6.1464844 10.146484 L 2.1464844 14.146484 C 1.6556843 14.617739 2.3822604 15.344316 2.8535156 14.853516 L 6.5996094 11.107422 L 10.277344 12.947266 C 10.469605 13.042996 10.701521 13.005256 10.853516 12.853516 L 16.939453 6.7675781 L 16.939453 9.5957031 L 18 8.5351562 L 18 5 L 14.464844 5 z" style="fill:#222222;fill-opacity:1;stroke:none;stroke-width:0px;"/>
-    </g>
-</svg>
 
     <!-- Project 3 Description and Link -->
     <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/Game%20Day%20Analytics%202023">Game Day Analytics Challenge 2023 - Super Bowl 57</a></h3>
