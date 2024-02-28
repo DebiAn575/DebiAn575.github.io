@@ -78,7 +78,7 @@
 
     <!-- Project 4 Description and Link -->
     <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/XAI_Understanding_which_predictors_affect_product_sale">Evaluating Market Performance and Predicting Strongest Variables affecting Sales</a></h3>
-    <p>In this project we analyze the sales and marketing strategies of two soft drinks and utilize Machine Learning models to understand what makes the sales of one product better than the other and also answer the questions what factors can the marketing and the sales manager focus on to increase the sales of the low performing product. .</p>
+    <p>In this project we analyze the sales and marketing strategies of two soft drinks and utilize Machine Learning models to understand what makes the sales of one product better than the other and also answer the questions what factors can the marketing and the sales manager focus on to increase the sales of the low performing product. </p>
       
     <ul>
         <li>Tools Used: R Programming, Posit cloud, Excel</li>
