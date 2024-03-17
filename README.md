@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing management, financial analysis, and operations excellence.</h3>
 
 
-- 🌱  I’m currently honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**
+- 🌱  I’m currently honing my skills in **Data Science, Machine Learning, Marketing Analytics, Product Management & Business Operations**
 
 - 📂  All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
 
