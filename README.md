@@ -41,7 +41,7 @@
   <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
 </svg>
 
-    <p>Home Finance providers focused on responsible lending primarily to people with little or no credit history. As the companies provides financial support for purchasers, they make sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount.</p>
+    <p>Finance providers focused on responsible lending primarily to people with little or no credit history. As the companies provides financial support for purchasers, they make sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount.</p>
     
     <p>The objective of credit risk analysis is to use various statistical and predictive analysis methods on the applicant information, collected previously and current data, to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default or not. The project also delves into determining which features/predictors are strongest in determining the target variable.</p>
     
