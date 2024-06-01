@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debayan</h1>
-<h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing management, financial analysis, and operations excellence.</h3>
+<h3 align="center">A passionate Data Strategist with 5+ years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing management, customer success, product management,financial analysis, and operations excellence.</h3>
 
 
 - 🌱  I’m currently honing my skills in **Data Science, Machine Learning, Marketing Analytics, Product Management & Business Operations**
@@ -24,7 +24,7 @@
     <h2>PROJECTS</h2>
 
     <!-- Project 1 Description and Link -->
-    <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/Home_Credit_Default_Risk_prediction">Credit Default Risk Analysis and Prediction</a></h3>
+    <h3><a href="https://github.com/DebiAn575/Business_Applications/tree/main/Home_Credit_Default_Risk_prediction">Credit Risk Analysis and Prediction</a></h3>
     <?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg fill="#000000" width="200px" height="200px" viewBox="0 0 32 32" id="icon" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -41,11 +41,11 @@
   <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
 </svg>
 
-    <p>Home Credit is an international consumer finance provider focused on responsible lending primarily to people with little or no credit history. As the company provides financial support for home purchasers, the company makes sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount.</p>
+    <p>Home Finance providers focused on responsible lending primarily to people with little or no credit history. As the companies provides financial support for purchasers, they make sure that they are lending the money to the right and responsible clients, who have the ability to repay the loan amount.</p>
     
-    <p>The objective is that Home Credit wants to use various statistical and predictive analysis methods on the applicant data, collected previously and current data, to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default. The project also delves into determining which features/predictors are strongest in determining the target variable.</p>
+    <p>The objective of credit risk analysis is to use various statistical and predictive analysis methods on the applicant information, collected previously and current data, to unearth the credibility of a requester by predicting whether they would be able to repay the entire loan with interest in due course of time i.e. predict whether an applicant is likely to default or not. The project also delves into determining which features/predictors are strongest in determining the target variable.</p>
     
-    <p>In this project, we explore various classification algorithms and a supervised learning approach to develop models to predict if a new home loan requester will default or not and thereby Home Credit can make a decision whether they should lend money to the requester.</p>
+    <p>In this project, we explore various classification algorithms and a supervised learning approach to develop models to predict if a new home loan requester will default or not and thereby Credit companies can make a decision whether they should lend money to the requester.</p>
     
     <ul>
         <li>Tools Used: Python, Jupyter Notebook</li>
